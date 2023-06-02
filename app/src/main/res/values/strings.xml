@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarjeta de Presentacion</string>
+    <string name="logo_from_geatsoft">Logo from GeatSoft</string>
+    <string name="title_name">Javier Alburges</string>
+    <string name="sub_title">Mechanical engineer and androird developer</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">+58 (412) 752 1730</string>
+    <string name="red_social">Red Social</string>
+    <string name="gearsoftca_social">\@GearSoftCa</string>
+    <string name="email_ic">Email</string>
+</resources>
